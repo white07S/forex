@@ -1,2 +1,5 @@
-# forex
-Real-time economic events bi directional analysis and prediction
+## Forex analysis and High frequency time series data managment
+# Real-time economic events analysis and bi directional prediction
+### Architecture
+
+![Architecture](https://github.com/white07S/forex/blob/master/assets/arch.png)
