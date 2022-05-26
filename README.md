@@ -2,4 +2,4 @@
 # Real-time economic events analysis and bi directional prediction
 ### Architecture
 
-![Architecture](https://github.com/white07S/forex/assets/arch.png)
+![Architecture](https://github.com/white07S/forex/blob/main/assets/arch.png)
